@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "carrinho_compras",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest"
+    },
+    "keywords": [],
+    "author": "Natália",
+    "license": "ISC",
+    "devDependencies": {
+        "vitest": "^2.0.5"
+    }
+}
